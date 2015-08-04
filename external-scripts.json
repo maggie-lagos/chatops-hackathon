@@ -10,5 +10,14 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-open-weather-map",
-  "hubot-event-announcer"
+  "hubot-event-announcer",
+  "hubot-nodecopter",
+  "hubot-caffeine",
+  "hubot-calculator",
+  "hubot-fliptable",
+  "hubot-newbot",
+  "hubot-aws",
+  "hubot-pugsofmarvel",
+  "hubot-greetings",
+  "hubot-passwdme"
 ]
