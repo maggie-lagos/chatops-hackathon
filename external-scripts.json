@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-open-weather-map",
-  "hubot-kudos"
+  "hubot-kudos",
+  "hubot-devops-reactions"
 ]
