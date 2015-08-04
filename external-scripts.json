@@ -8,13 +8,5 @@
   "hubot-open-weather-map",
   "hubot-kudos",
   "hubot-devops-reactions",
-  "hubot-nodecopter",
-  "hubot-caffeine",
-  "hubot-calculator",
-  "hubot-fliptable",
-  "hubot-newbot",
-  "hubot-aws",
-  "hubot-pugsofmarvel",
-  "hubot-greetings",
-  "hubot-passwdme"
+  "hubot-aws"
 ]
